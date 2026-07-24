@@ -1,0 +1,6 @@
+{
+  "name": "1945 Air Combat",
+  "description": "Classic WWII vertical scrolling arcade shooter with fighter selection, power-ups, charge attacks, screen-clearing bombs, boss fights, and retro synth audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
